@@ -239,7 +239,7 @@ function create_config( )
     "time",
     "welcome"
     },
-    sudo_users = {144658773,114934518,94746365},--Sudo users
+    sudo_users = {@O_o_Sajedeh_Goblin_o_O},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Sbss Bot V2 Beta
